@@ -23,7 +23,7 @@
   
 - **Terraform Infrastructure**
   Provisioned Azure resources with reusable Terraform modules
-- 
+  
 - **Expenses Tracker WebApp**  
   [GitHub Repo](https://github.com/Afroz-J-Shaikh/Expenses-Tracker-WebApp)  
   Deployed a full‑stack expenses tracker web application, containerized with Docker and hosted on Azure. Configured environment variables and optimized deployment settings.
