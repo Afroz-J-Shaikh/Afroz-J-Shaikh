@@ -41,8 +41,8 @@
 ---
 
 ## 📫 Connect with Me
-- [LinkedIn](www.linkedin.com/in/afroz-shaikh-8871623a1)  
-- [Email](afsk1997@gmail.com)  
+- [LinkedIn](https://www.linkedin.com/in/afroz-j-shaikh/)  
+- [Email](mailto:afsk1997@gmail.com)  
 
 ---
 ✨ *“Learning by building — one container, one pipeline, one cloud at a time.”*
