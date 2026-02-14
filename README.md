@@ -7,7 +7,8 @@
 ---
 
 ## 🛠️ Skills & Tools
-- **Cloud Platforms:** Azure, AWS  
+- **Cloud Platforms:** Azure, AWS
+- **Automation & Scripting:** Bash/Shell Scripting, Python
 - **Containers & Orchestration:** Docker, Kubernetes  
 - **Infrastructure as Code:** Terraform  
 - **CI/CD Pipelines:** Jenkins, GitHub Actions  
@@ -34,9 +35,6 @@
 
 - **Django App Deployment**  
   Dockerized a Django application and deployed it on Azure Web Apps, troubleshooting port configurations and environment variables.
-
-- **WSL Optimization**  
-  Experimented with WSL installation, export/import, and drive relocation to optimize Linux environments on Windows for DevOps workflows.
 
 ---
 
