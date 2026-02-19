@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Afroz Shaikh
 
-🚀 **Aspiring DevOps Engineer** | Hands-on with **Azure • AWS • Docker • Kubernetes • Terraform • Jenkins (CI/CD)**  
+🚀 **Aspiring DevOps Engineer** | Hands-on with **Azure • AWS • Docker • Kubernetes • Terraform • Jenkins (CI/CD) • Python & Shell Scripting **  
 💡 Passionate about automation, cloud-native solutions, and troubleshooting real-world workflows.  
 🌱 Currently completing a DevOps course and building project-based experience to reflect one year of practical learning.  
 
