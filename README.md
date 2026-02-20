@@ -41,7 +41,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Afroz-J-Shaikh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afroz-J-Shaikh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
 </div>
 
@@ -56,7 +56,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afroz-j-shaikh/)
-[![Email](https://img.shields.io/badge/Email-trainwithshubham@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:afsk1997@gmail.com)
+[![Email](https://img.shields.io/badge/Email-afsk1997@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:afsk1997@gmail.com)
 
 </div>
 
